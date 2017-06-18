@@ -6,9 +6,9 @@ This is a little demo chat application using:
 - socket.io
 - nodemon 
 
-Requires NodeJS (https://nodejs.org/es/)
+It requires NodeJS which can be downloaded from https://nodejs.org
 
-Can be tested using the following command line:
+To download and test the app use the following command line:
 
 git clone https://github.com/Alfredux79/nodejs-socketio-chat.git
 
