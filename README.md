@@ -12,6 +12,8 @@ Can be tested using the following command line:
 
 git clone https://github.com/Alfredux79/nodejs-socketio-chat.git
 
+cd nodejs-socketio-chat
+
 npm install
 
 npm start
